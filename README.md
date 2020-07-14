@@ -1,2 +1,6 @@
 # axity-collaboration-travel-plans
-Alexander Chamizo Checa
+Aimee Zuñiga Hernandez
+Prueba Katy
+Tests
+
+Saludos
